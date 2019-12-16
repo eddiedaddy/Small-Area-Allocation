@@ -30,6 +30,8 @@ It is desired to be in multiprocessing, but was not able at this time.
   (synthetic data was also created from pypPopSyn-III  which is a multiprocessing process)
 - Synthetic data should be re-organized, or read from a DB by Tier2 to make use of multiprocessing.
 
+
+Anyway, it took about 3 hours to run in single processor.
 '''
 
 
